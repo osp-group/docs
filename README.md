@@ -41,8 +41,10 @@ See [projects/](./projects/) directory for detailed project tracking.
 
 ### Project Management Resources
 
+- **[GitHub Projects Workflow](./projects/GITHUB_PROJECTS_WORKFLOW.md)** - Complete workflow guide (READ THIS FIRST)
 - **[Active Projects](./projects/ACTIVE_PROJECTS.md)** - Current status and metrics
 - **[Priority Issues List](./projects/ISSUES_PRIORITY_LIST.md)** - 14 prioritized issues across 3 repos
+- **[Issues Created Summary](./projects/ISSUES_CREATED.md)** - Direct links to all created issues
 - **[GitHub Issues Templates](./projects/GITHUB_ISSUES_TEMPLATE.md)** - Templates for creating issues
 - **[GitHub Project Setup](./projects/GITHUB_PROJECT_SETUP.md)** - Project board configuration guide
 
@@ -66,7 +68,22 @@ All OSP Group team members should reference and update this documentation as pro
 
 ## 📊 GitHub Project Board
 
-Track all tasks and issues across repositories: [OSP Group Project Board](https://github.com/orgs/osp-group/projects)
+**Track all tasks and issues across repositories:**
+
+🎯 **Project Board:** https://github.com/orgs/osp-group/projects/1
+
+**Name:** OSP Group - Master Project Board  
+**Status:** ✅ Active with 14 issues  
+**Workflow:** See [GitHub Projects Workflow Guide](./projects/GITHUB_PROJECTS_WORKFLOW.md)
+
+### Quick Start
+1. Check project board daily
+2. Create issues before starting work
+3. Update status as you progress
+4. Link commits to issues
+5. Close issues when complete
+
+**Rule:** If it's not on the board, it doesn't exist!
 
 ---
 
