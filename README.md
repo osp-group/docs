@@ -48,7 +48,23 @@ See [projects/](./projects/) directory for detailed project tracking.
 - **[GitHub Issues Templates](./projects/GITHUB_ISSUES_TEMPLATE.md)** - Templates for creating issues
 - **[GitHub Project Setup](./projects/GITHUB_PROJECT_SETUP.md)** - Project board configuration guide
 
-## 📋 Quick Links
+## � Reusable Templates
+
+**NEW: Complete template package for setting up new projects with OSP Group's workflow!**
+
+→ **[Templates Quick Access](./TEMPLATES_QUICK_ACCESS.md)** - Start here
+
+### What's Included
+
+- **[Complete Installation Guide](./templates/INSTALLATION_GUIDE.md)** - Set up new project in 30-45 minutes
+- **[Quick Start Guide](./templates/github-workflow/QUICK_START.md)** - Daily workflow (15 minutes)
+- **[GitHub Workflow Templates](./templates/github-workflow/)** - Issue templates, labels, automation
+- **[VS Code Templates](./templates/vscode/)** - Copilot instructions, extensions, settings
+- **[Label Setup Script](./templates/github-workflow/setup-labels.sh)** - Automated label creation
+
+**Use these templates to ensure all OSP Group projects follow the same standardized workflow.**
+
+## �📋 Quick Links
 
 - [Architecture Diagram](./architecture/OVERVIEW.md)
 - [Deployment Guides](./deployment/)
