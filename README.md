@@ -39,6 +39,13 @@ See [projects/](./projects/) directory for detailed project tracking.
 3. **Domain Configuration** - Custom domain setup for all services
 4. **SEO Optimization** - Inventory and optimization across all websites
 
+### Project Management Resources
+
+- **[Active Projects](./projects/ACTIVE_PROJECTS.md)** - Current status and metrics
+- **[Priority Issues List](./projects/ISSUES_PRIORITY_LIST.md)** - 14 prioritized issues across 3 repos
+- **[GitHub Issues Templates](./projects/GITHUB_ISSUES_TEMPLATE.md)** - Templates for creating issues
+- **[GitHub Project Setup](./projects/GITHUB_PROJECT_SETUP.md)** - Project board configuration guide
+
 ## 📋 Quick Links
 
 - [Architecture Diagram](./architecture/OVERVIEW.md)
