@@ -1,1 +1,0 @@
-# Abertura de empresa Lucro Real e Lucro Presumido
