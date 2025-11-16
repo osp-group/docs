@@ -22,7 +22,30 @@ Centralizar tudo o que explica o produto (soluções, segmentos, ICP, diferencia
 3. Copiar `ANALISE_PROFUNDA_BASE_CONHECIMENTO.md` para servir como índice temporário nesta pasta.
 4. Atualizar `INDEX_CONHECIMENTO.md` apontando para as novas rotas.
 
+## 🔗 Recursos do Google Drive
+
+### Segmentos & Análises
+- [Análise Mercado Agrícola](https://docs.google.com/document/d/placeholder) — Segmento Agrícola
+- [Análise Indústrias 4.0](https://docs.google.com/document/d/placeholder) — Setor Industrial
+- [Análise Varejo](https://docs.google.com/document/d/placeholder) — Comércio & Varejo
+- [Análise Setor Serviços](https://docs.google.com/document/d/placeholder) — Serviços Especializados
+- [Análise Educação](https://docs.google.com/document/d/placeholder) — Setor Educacional
+
+### Soluções Core
+- [Proposta Contabilidade Standard](https://docs.google.com/document/d/placeholder)
+- [Proposta Contabilidade Consultiva](https://docs.google.com/document/d/placeholder)
+- [Modelo Lucro Real](https://docs.google.com/spreadsheets/d/placeholder)
+- [Guia Holding Familiar](https://docs.google.com/document/d/placeholder)
+- [Deck OSP360](https://docs.google.com/presentation/d/placeholder)
+
+**📌 Ver lista completa:** [`planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md`](../../planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md)
+
+---
+
 ## Dependências e Próximos Passos
 - **Cross-links:** garantir que NAVIGATION, INDEX_GERAL e QUICK_REFERENCE apontem para `CONHECIMENTO/` até 20/nov.
 - **Governança:** definir owners (produto + marketing) no `docs/MAINTENANCE.md`.
 - **Template:** reutilizar cabeçalho padrão descrito em `STRUCTURE.md` para cada documento migrado.
+- **Recursos Drive:** Links para templates, análises e dashboards estão sendo consolidados em GOOGLE_DRIVE_RESOURCES_P6.md
+
+```

@@ -6,6 +6,19 @@
 
 ---
 
+## 🔗 Recursos do Google Drive
+
+### Dashboards & Reports
+- [OKRs 2025](https://docs.google.com/spreadsheets/d/placeholder)
+- [Dashboard Executivo Mensal](https://lookerstudio.google.com/placeholder)
+- [Relatório Marketing Performance](https://docs.google.com/presentation/d/placeholder)
+- [KPI Vendas & Forecast](https://lookerstudio.google.com/placeholder)
+- [Dashboard Operacional Semanal](https://lookerstudio.google.com/placeholder)
+
+**📌 Ver lista completa:** [`planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md`](../../planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md)
+
+---
+
 ## 📋 Conteúdo
 
 ### 2024 — Relatórios Históricos (8 arquivos)

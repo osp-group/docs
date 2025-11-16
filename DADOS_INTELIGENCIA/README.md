@@ -95,6 +95,24 @@ Total: ~300 arquivos → 10 índices
 
 ---
 
+## 🔗 Recursos do Google Drive
+
+### Dashboards & Analytics
+- [Dashboard Revenue Recognition](https://lookerstudio.google.com/placeholder)
+- [KPI Dashboard Executivo](https://lookerstudio.google.com/placeholder)
+- [Análise Cohort & LTV](https://docs.google.com/spreadsheets/d/placeholder)
+- [Forecast Receita 2025](https://docs.google.com/spreadsheets/d/placeholder)
+- [Relatório GA4 Consolidado](https://docs.google.com/spreadsheets/d/placeholder)
+
+### Governança & Dados
+- [Política de Acesso a Dados](https://docs.google.com/document/d/placeholder)
+- [Dicionário de Dados](https://docs.google.com/spreadsheets/d/placeholder)
+- [Matriz Compliance LGPD](https://docs.google.com/spreadsheets/d/placeholder)
+
+**📌 Ver lista completa:** [`planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md`](../planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md)
+
+---
+
 ## 🔍 Como Encontrar Informação
 
 | Você quer... | Abra... |
@@ -105,6 +123,7 @@ Total: ~300 arquivos → 10 índices
 | Cadência de e-mail | `VENDAS/processos/WORKFLOWS.md` |
 | Status geral | `MIGRATION_LOG.md` |
 | Guia rápido | `QUICK_START.md` |
+| Recursos Google Drive | [`planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md`](../planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md) |
 
 ---
 

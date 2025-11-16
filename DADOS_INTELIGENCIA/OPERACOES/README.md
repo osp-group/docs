@@ -22,6 +22,22 @@ Reunir todos os processos operacionais (deploy, suporte, atendimento, finanças 
 3. Criar ligação com `scripts/maintenance/` para tarefas automatizadas de operação.
 4. Mapear conteúdo de `docs/issues/` que vira procedimento repetível e trazer para esta pasta.
 
+## 🔗 Recursos do Google Drive
+
+### Processos & Operações
+- [SOP Deploy Production](https://docs.google.com/document/d/placeholder)
+- [Runbook Incidente Crítico](https://docs.google.com/document/d/placeholder)
+- [Checklist QA Pre-Release](https://docs.google.com/document/d/placeholder)
+- [Template Relatório Semanal](https://docs.google.com/spreadsheets/d/placeholder)
+- [Matriz RACI Squads](https://docs.google.com/spreadsheets/d/placeholder)
+
+### Monitoramento & Compliance
+- [Dashboard Uptime](https://lookerstudio.google.com/placeholder)
+- [Política SLA Suporte](https://docs.google.com/document/d/placeholder)
+- [Log Auditorias Mensal](https://docs.google.com/spreadsheets/d/placeholder)
+
+**📌 Ver lista completa:** [`planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md`](../../planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md)
+
 ## Dependências e Próximos Passos
 - alinhar com equipe de operações para validar SLAs antes de mover conteúdo crítico.
 - Atualizar `INDEX_OPERACIONAL.md` apontando para `OPERACOES/`.

@@ -6,6 +6,18 @@
 
 ---
 
+## 🔗 Recursos do Google Drive
+
+### Modelos Financeiros
+- [Modelo LTV & CAC](https://docs.google.com/spreadsheets/d/placeholder)
+- [Forecast MRR 2025](https://docs.google.com/spreadsheets/d/placeholder)
+- [Análise Payback Period](https://docs.google.com/spreadsheets/d/placeholder)
+- [Modelo Atribuição Vendas](https://docs.google.com/spreadsheets/d/placeholder)
+
+**📌 Ver lista completa:** [`planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md`](../../planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md)
+
+---
+
 ## Escopo
 - Planilhas de forecast (MRR, CAC, LTV, payback).
 - Modelos de atribuição, cohort e funil completo.

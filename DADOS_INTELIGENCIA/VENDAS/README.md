@@ -22,7 +22,28 @@ Concentrar todo material de apoio comercial (playbooks, matrizes de objeção, s
 3. Conectar CTA e páginas de conversão (`docs/campaigns/`) com referências diretas nesta pasta.
 4. Criar índice `VENDAS/INDEX.md` após a primeira onda de migração.
 
+## 🔗 Recursos do Google Drive
+
+### Templates & Propostas
+- [Template Contabilidade Recorrente](https://docs.google.com/document/d/placeholder)
+- [Template BPO Mensal](https://docs.google.com/document/d/placeholder)
+- [Template Consultoria](https://docs.google.com/document/d/placeholder)
+- [Checklist Qualificação Lead](https://docs.google.com/document/d/placeholder)
+- [Email Sequência Nurture](https://docs.google.com/document/d/placeholder)
+- [Deck Pitch Executivo](https://docs.google.com/presentation/d/placeholder)
+
+### Dados & Forecast
+- [Forecast Vendas 2024](https://docs.google.com/spreadsheets/d/placeholder)
+- [Forecast Vendas 2025](https://docs.google.com/spreadsheets/d/placeholder)
+- [Dashboard Pipeline](https://lookerstudio.google.com/placeholder)
+- [KPIs Mensais](https://docs.google.com/spreadsheets/d/placeholder)
+
+**📌 Ver lista completa:** [`planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md`](../../planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md)
+
+---
+
 ## Dependências e Próximos Passos
 - Mapear owners (SDR Lead e Sales Ops) em `MAINTENANCE.md`.
 - Atualizar `NAVIGATION.md` com rota "Se você é Vendedor → VENDAS".
 - Definir calendário de revisão quinzenal compartilhado com Marketing e Produto.
+- **Recursos Drive:** Links para propostas, templates e dashboards estão sendo consolidados

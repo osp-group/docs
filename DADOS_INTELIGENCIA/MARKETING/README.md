@@ -40,6 +40,22 @@
 2. Customize: Para seu público
 3. Compartilhe: Via canais apropriados
 
+## 🔗 Recursos do Google Drive
+
+### Campanhas & Conteúdo
+- [Briefing Campanha Influencer](https://docs.google.com/document/d/placeholder)
+- [Calendário de Conteúdo Q4 2025](https://docs.google.com/spreadsheets/d/placeholder)
+- [Template Email Newsletter](https://docs.google.com/document/d/placeholder)
+- [Deck Lançamento Produto](https://docs.google.com/presentation/d/placeholder)
+- [Painel Semântico Visual](https://docs.google.com/presentation/d/placeholder)
+
+### Ativos & Performance
+- [Brand Kit (Logos + Cores)](https://docs.google.com/document/d/placeholder)
+- [Dashboard Redes Sociais](https://lookerstudio.google.com/placeholder)
+- [Análise Performance Campanhas](https://docs.google.com/spreadsheets/d/placeholder)
+
+**📌 Ver lista completa:** [`planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md`](../../planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md)
+
 ## 🔍 Próximos Passos
 
 - [ ] Criar INDEX.md para navegação consolidada
