@@ -51,7 +51,6 @@
 ## 📋 Documentação & Apoio
 - [Planilha Orçamento](https://docs.google.com/spreadsheets/d/1CTjl6Y4VKB1NYjyVE-aVvds05cxFa5-go91Qk7FaFHo/edit)
 - [Base de Clientes](https://docs.google.com/spreadsheets/d/1dACqlBghNEJlkZvX8J9pSQ_4Sz-f-fryCe4xW5J9YSQ/edit)
-- [Base de Clientes (publicada)](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZ0V6snSs4qUT9MsBPpWXXDhYIJPMnlSUB-vhQMRYEZn0mQwEx9AEgkwfLg5sicaDLCw9Ecz7OkJee/pubhtml)
 - [Dados Modelo Planilha](https://docs.google.com/spreadsheets/d/1lUmGEyKrFR2ZqJ_o9jaVq0tM9HikpqipBrcAtQWRxYc/edit)
 
 ---
