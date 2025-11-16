@@ -1,0 +1,35 @@
+# Contador não é só para imposto.
+
+Tarefas: Gravação
+Conteúdo: Reels
+Estratégia: OMV (Objeção / Mito / Verdade)
+Última edição: 12 de novembro de 2025 17:04
+Canais: Instagram, LinkedIn
+Criado por: Arthur Ferreira -OSP
+
+# Roteiro:
+
+| **TÍTULO** | Contador não é só para imposto. |
+| --- | --- |
+| PERGUNTA | Por que muitos empresários só lembram do contador quando chega a guia de imposto? |
+| GANCHO | Se você só fala com seu contador na hora de pagar imposto, você está perdendo dinheiro todo mês. |
+| CTA | Quer transformar seu contador em um parceiro estratégico do seu negócio? Me chama. |
+| LEGENDA | 📊A contabilidade não é um mal necessário.
+Ela pode ser sua maior aliada para crescer e proteger o seu negócio.
+
+💡Empresários que usam o contador apenas para ‘resolver imposto’ deixam dinheiro na mesa todos os meses.
+A contabilidade consultiva mostra onde você pode economizar, lucrar mais e tomar decisões com segurança.
+
+👉Quer parar de ver contabilidade como custo e começar a enxergar como investimento? Me chama.
+
+#contabilidadeconsultiva #relacionamentoconsultivo #ospcontabilidade #gestaoempresarial #estrategiadecrescimento |
+| PALAVRAS-CHAVES | Contabilidade consultiva
+Parceiro estratégico
+Crescimento empresarial
+Tomada de decisão
+Redução de custos
+Atendimento próximo
+Orientação estratégica
+Consultoria contábil
+Apoio empresarial
+Rentabilidade |
