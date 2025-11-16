@@ -79,30 +79,65 @@ Se preferir um projeto separado:
   - [ ] Sim - email: ?
   - [ ] Não - quem tem acesso?
 
-- [ ] **Passo 3**: Compartilhar arquivo JSON
-  - [ ] Você compartilha comigo OR
-  - [ ] Você copia para `api/oauth_credentials.json` no seu local
+- [x] **Passo 3**: Opção B escolhida!
+  - [x] Criar novo projeto `osp-docs-validator`
 
 ---
 
-## 🎯 Próximos Passos (Após você definir)
+## ✅ DECISÃO FINAL: Opção B
 
-1. ✅ Tenho scripts prontos
-2. ⏳ Aguardo: Credenciais JSON
-3. ⏳ Executar: `python3 api/google_drive_oauth_setup.py`
-4. ⏳ Iniciar: `python3 api/google_drive_validator_api_enhanced.py`
-5. ⏳ Validar: `curl http://localhost:5000/health`
+**Você escolheu**: Criar novo projeto `osp-docs-validator` 🎉
 
 ---
 
-## 📞 Dúvidas?
+## 🚀 Próximos Passos
 
-**Qual é a melhor opção para você?**
-- Reutilizar `osp-crm` existente?
-- Criar novo projeto `osp-docs-validator`?
+### Siga este guia passo a passo:
 
-**Você tem acesso ao Google Cloud Console?**
-- Email da conta Google?
-- Já tem credenciais baixadas?
+📖 **`api/SETUP_NEW_PROJECT_GOOGLE_CLOUD.md`**
 
-Compartilhe essas informações e prosseguimos! 🚀
+Este arquivo contém:
+- ✅ 7 passos detalhados e fáceis
+- ✅ Tempo total: ~10 minutos
+- ✅ Descrição de cada tela do Google Cloud Console
+- ✅ Troubleshooting para problemas comuns
+- ✅ Checklist final
+
+**Os 7 passos**:
+
+1. ✅ Criar projeto `osp-docs-validator` (2 min)
+2. ✅ Habilitar Google Drive API (2 min)
+3. ✅ Criar OAuth 2.0 Credentials (4 min)
+4. ✅ Download arquivo JSON (1 min)
+5. ✅ Copiar para projeto (1 min)
+6. ✅ Iniciar API (1 min)
+7. ✅ Testar endpoints (1 min)
+
+---
+
+## 📋 Como Proceder
+
+```bash
+# 1. Abra o guia:
+cat /Users/gpagotto/osp-website/docs/api/SETUP_NEW_PROJECT_GOOGLE_CLOUD.md
+
+# 2. Siga cada passo (levará ~10 minutos)
+
+# 3. No final, você terá:
+# - Novo projeto Google Cloud criado ✅
+# - OAuth configurado ✅
+# - arquivo JSON baixado ✅
+# - API rodando localmente ✅
+# - Endpoints testados ✅
+```
+
+---
+
+## 🎯 Status
+
+- ✅ Scripts prontos
+- ✅ Documentação completa
+- ⏳ Aguardando: Você seguir os passos do guia
+- ⏳ Depois: Compartilhar resultado ou dúvidas
+
+Bom trabalho! 🚀
