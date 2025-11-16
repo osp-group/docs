@@ -25,29 +25,40 @@ REST API para validar e monitorar os 83 links Google Drive integrados nos hubs O
 
 ## 🚀 Quick Start
 
-### 1. Instalar Dependências
+### ⚡ Opção 1: OAuth com mkt@osp.com.br (Recomendado)
+
+**5 minutos** - Sem expor senhas, apenas clique e autorize.
 
 ```bash
 cd /Users/gpagotto/osp-website/docs
+
+# 1. Instalar dependências
 pip install -r api/requirements.txt
+
+# 2. Configurar OAuth (será aberto navegador)
+python3 api/google_drive_oauth_setup.py
+
+# 3. Iniciar API (agora com OAuth automático)
+python3 api/google_drive_validator_api_enhanced.py
 ```
 
-### 2. Configurar Google Drive API
+Siga o guia: **`api/QUICK_START_OAUTH.md`** para instruções completas.
+
+### 📚 Opção 2: Service Account (Empresa)
 
 Siga o guia completo em: `scripts/GOOGLE_DRIVE_API_SETUP.md`
 
 **Resumido**:
 ```bash
-# Definir credenciais
+cd /Users/gpagotto/osp-website/docs
+
+# 1. Instalar dependências
+pip install -r api/requirements.txt
+
+# 2. Definir credenciais
 export GOOGLE_CREDENTIALS=/caminho/para/credentials.json
 
-# Ou criar arquivo .env
-echo "GOOGLE_CREDENTIALS=/caminho/para/credentials.json" > api/.env
-```
-
-### 3. Iniciar o Servidor
-
-```bash
+# 3. Iniciar API
 python3 api/google_drive_validator_api.py
 ```
 
