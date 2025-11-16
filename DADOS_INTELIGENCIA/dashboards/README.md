@@ -1,18 +1,51 @@
-# Dashboards e Visualizações
+# 📊 Dashboards e Visualizações
 
-**Data:** 16 de novembro de 2025
-**Versão:** 0.1
-**Status:** Estrutura vazia aguardando inventário
+**Data:** 16 de novembro de 2025  
+**Versão:** 1.0  
+**Status:** ✅ Migrado (P2.3)
 
 ---
 
-## Escopo
-- Descrição de cada dashboard (objetivo, KPIs, filtros).
-- Links para ferramentas (Looker, Data Studio, Sheets) com instruções de acesso.
-- Histórico de atualizações e owners responsáveis pela manutenção.
+## 📋 Conteúdo
 
-## Próximas Ações
-1. Consolidar descrições presentes em `INDICE_DADOS_ANALYTICS_COMPLETO.md` e `SEO_ANALYTICS_DASHBOARD_NOV2025.md`.
-2. Criar `Dashboards_OVERVIEW.md` com tabela: Dashboard | KPIs | Owner | Atualização.
-3. Relacionar alertas automáticos com `scripts/maintenance/` (quando existir).
-4. Vincular interpretações em `DADOS_INTELIGENCIA/analises/` e resultados em `MARKETING/performance/`.
+### 2024 — Relatórios Históricos (8 arquivos)
+- ✅ **OKRs 2024** — Objetivos e resultados-chave
+- ✅ **Agendamentos com ICP** — Meetings por persona
+- ✅ **Plano de Mensuração** — Metodologia de KPIs
+- ✅ **Relatório Mensal** — Marketing e Comercial (template + dados + consolidado)
+
+### Estrutura Pronta para Crescer
+- `vendas/` — Para análises futuras
+- `marketing/` — Para análises futuras
+- `financeiro/` — Para análises futuras
+- `operacional/` — Para análises futuras
+
+---
+
+## 🎯 Como Usar
+
+### Consultando Dados
+1. **OKRs:** Veja objetivos anuais e trimestais
+2. **Agendamentos:** Rastreie meetings com ICPs
+3. **Mensuração:** Entenda a metodologia de KPIs
+4. **Relatório Mensal:** Use como template para novas análises
+
+### Usando o Modelo
+1. Copie: `Modelo de Apresentação`
+2. Customize: Com seus dados
+3. Referencie: `Base de Dados` para números
+4. Compare: Com `Relatório Mensal` anterior
+
+## 🔄 Frequência de Atualização
+- **OKRs:** Anual (revisão trimestral)
+- **Agendamentos:** Semanal
+- **Mensuração:** Trimestral
+- **Relatório Mensal:** Mensal
+
+---
+
+## 🚀 Próximas Ações
+1. ✅ Consolidar relatórios do Notion
+2. ⏳ Criar relatórios para 2025
+3. ⏳ Automatizar com BI tools
+4. ⏳ Integrar com DADOS_INTELIGENCIA/analises/

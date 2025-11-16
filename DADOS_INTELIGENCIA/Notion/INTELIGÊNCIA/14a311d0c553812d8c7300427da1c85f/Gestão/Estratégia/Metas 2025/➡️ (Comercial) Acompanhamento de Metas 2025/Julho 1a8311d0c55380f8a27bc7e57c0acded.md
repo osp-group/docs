@@ -1,0 +1,11 @@
+# Julho
+
+META 1: R$ 25.000,00
+META BÔNUS: R$ 30.000,00
+Mês: Julho
+RECORRÊNCIA: R$ 12.000,00
+STATUS META BÔNUS: -R$ 18.000,00
+STATUS META1: -R$ 13.000,00
+Status: Concluído
+TOTAL VENDAS: R$ 22.000,00
+Trimestre: Q3

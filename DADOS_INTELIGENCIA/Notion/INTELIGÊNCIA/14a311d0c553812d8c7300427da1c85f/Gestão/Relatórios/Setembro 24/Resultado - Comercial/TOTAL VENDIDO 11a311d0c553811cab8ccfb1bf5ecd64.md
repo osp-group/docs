@@ -1,0 +1,4 @@
+# TOTAL VENDIDO
+
+Etapas do Funil: Cliente
+Valor: 12550
