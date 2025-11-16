@@ -189,12 +189,41 @@ Todos os produtos e serviços oferecidos pela OSP Solução de Negócios, organi
 
 ---
 
+## 🔗 Documentação Técnica & Recursos Google Drive
+
+### Documentos Principais (Detalhamento de Soluções)
+- [Estudo Tributário](https://docs.google.com/document/d/1Nejr3BNKV6mf77fl61eezGqhY3QHGJY6_LQJCynYtvs/edit)
+- [Consultoria 360](https://docs.google.com/document/d/14uKhqv_X4Wncdn9FpKHxy5Q38d9w8-S1WY4_OCPBKEM/edit)
+- [Recuperação Tributária](https://docs.google.com/document/d/1g8zCuCaplrGeTciREqtZn5KZC2zqCD-R2X8W6O3Wchk/edit)
+- [Planejamento Sucessório e Holding Familiar](https://docs.google.com/document/d/1lAjNNJcFCX-UlTSXJhKYOVdJS3u6GJXirkHEoHDNz9A/edit)
+- [Holding Empresarial](https://docs.google.com/document/d/1xo7HzNwfGUNXXIxSn0WTBdkW83J3YySQ6Jhe-c7dov0/edit)
+
+### Documentação de Produtos
+- [Contabilidade Consultiva](https://docs.google.com/document/d/1Q-Yr2ztRSYPQY9F3iXDCxNqJthpgdUOlzI-z_q3nBxI/edit)
+- [Transfer Pricing](https://docs.google.com/document/d/13xT0OY2hsDWrWk3dBNxQE07mfnuxS7dtZ9MwMDFgGKI/edit)
+- [Planejamento Orçamentário](https://docs.google.com/document/d/1eOrvpzICWkwCrgeIyRi3_L08otWw_aYl0W94bmrfJjA/edit)
+- [Planejamento Tributário](https://docs.google.com/document/d/1efZ3PVMe6wtrq7ZnMkNruazVx2q9B1CUiy6Y1gKaw3E/edit)
+- [Migração para Lucro Real](https://docs.google.com/document/d/1hQORRaR2l01hK0yyZnLea4dT4N_5fa7AUV4ZIAB37AY/edit)
+- [Abrir empresa Lucro Real](https://docs.google.com/document/d/1BQ1LJ4c3vayxwgz4upOmW1Fhj5EPjJGmTL-_40rXf9Q/edit)
+- [Gestão Estratégica de Negócio](https://docs.google.com/document/d/1QNfRriF_mwPlz1gHUZQbe1sJ0tZm1QZ7fNpQDKzRIPs/edit)
+- [Holding Patrimonial](https://docs.google.com/document/d/1A5M_hA4ZKo9xeFw2BKYXyG0oBhi1oYxDk4ZIOwnezHM/edit)
+- [BPO Financeiro](https://docs.google.com/document/d/176kMtfIlHsyKcbt2Y9BZWcdsPszo6nBXq5TzzF1bWfI/edit)
+- [Suporte para Fusões e Aquisições](https://docs.google.com/document/d/1cUMgbfof7sMK3fzwUi6m_tv0qJtlKwvDfq_qTizgrgk/edit)
+- [Fast Valuation](https://docs.google.com/document/d/1EpmY3Lq7lawXmvDuzLShlLOanKSvNbdrx9Qayjt1gck/edit)
+- [Inteligência de Processos](https://docs.google.com/document/d/1TZMuFm8Lpmns-4-ooiXJiQ27dpLHiVu8mNQ2lzbG_J0/edit)
+
+**📌 Para lista completa de todos os 83 links Google Drive integrados**, consulte:
+- [`planning/technical/GOOGLE_DRIVE_AUDIT_COMPLETE.md`](../../../planning/technical/GOOGLE_DRIVE_AUDIT_COMPLETE.md)
+
+---
+
 ## 📝 Observações Importantes
 
 1. **Preços**: Os valores mostrados são "a partir de". Propostas personalizadas devem considerar complexidade
 2. **Combinações**: Muitas soluções funcionam melhor combinadas (ex: Contabilidade + Planejamento Tributário)
-3. **Documentação**: Cada solução tem Google Doc detalhado (links inclusos)
+3. **Documentação**: Cada solução tem Google Doc detalhado com análise técnica e estudos de caso
 4. **ICPs**: Consulte [`CONHECIMENTO/personas/ICP.md`](../personas/ICP.md) para segmentos recomendados
+5. **Recursos Drive**: Todos os documentos estão hospedados no Google Drive com acesso compartilhado
 
 ---
 
