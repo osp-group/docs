@@ -171,6 +171,20 @@ Todos os 7 currículos contêm o campo **"Pretensão Salarial"** **PREENCHIDO**:
 
 ---
 
+## 🔴 ATUALIZAÇÃO CRÍTICA: Budget R$ 4.000/mês
+
+**Mudança de Escopo**: De 4 contratações para **1 única contratação**
+
+### Impacto Imediato:
+- ❌ Tier 1 inteiro (Giulia, Raissa, Ricardo) fica **FORA DO ALCANCE**
+- ✅ JONATHAN é **ÚNICA OPÇÃO VIÁVEL** do Tier 1
+- 🟡 MARIANE é fallback (cabe fácil: R$ 2.800 vs R$ 4.000)
+
+### Análise Completa:
+**[VER DOCUMENTO: ANALISE_BUDGET_R4MIL.md]**
+
+---
+
 ## 📝 Ação Necessária
 
 ### Próximo Passo - Em Entrevista
