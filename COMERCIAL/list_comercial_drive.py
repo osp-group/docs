@@ -61,7 +61,7 @@ class GoogleDriveAnalyzer:
         self.files_list: List[FileInfo] = []
         
     def _find_service_account(self) -> Optional[str]:
-        """Procurar arquivo service-account-key.json"""
+        """Procurar arquivo service-account-key.json ou usar Firebase config"""
         # Procurar em vários locais
         paths = [
             Path.cwd() / "service-account-key.json",
@@ -72,27 +72,51 @@ class GoogleDriveAnalyzer:
         
         for path in paths:
             if path.exists():
-                print(f"✅ Service Account encontrado: {path}")
+                print(f"✅ Service Account encontrado (arquivo): {path}")
                 return str(path)
         
-        return None
+        # Tentar obter do Firebase config
+        return "firebase:workspace"  # Marcador especial para usar Firebase
     
     def authenticate(self) -> bool:
         """
         Autenticar com Google Drive API usando Service Account
+        Tenta: 1) Arquivo JSON local, 2) Firebase config
         
         Returns:
             True se autenticação bem-sucedida, False caso contrário
         """
         try:
-            if not self.service_account_file:
+            service_account_info = None
+            source = None
+            
+            # Opção 1: Arquivo JSON local
+            if self.service_account_file and self.service_account_file != "firebase:workspace":
+                try:
+                    with open(self.service_account_file) as f:
+                        service_account_info = json.load(f)
+                        source = f"arquivo ({self.service_account_file})"
+                except (FileNotFoundError, json.JSONDecodeError) as e:
+                    print(f"⚠️  Não conseguiu ler arquivo local: {e}")
+                    service_account_info = None
+            
+            # Opção 2: Firebase config
+            if not service_account_info:
+                service_account_info = self._get_firebase_config()
+                if service_account_info:
+                    source = "Firebase config (contabilidade)"
+            
+            # Se ainda não temos credenciais, erro
+            if not service_account_info:
                 print("❌ Arquivo service-account-key.json não encontrado!")
+                print("❌ Firebase config também não encontrado!")
                 print("\n📍 Locais onde procurei:")
                 paths = [
                     "service-account-key.json (diretório atual)",
                     "~/.config/google/service-account-key.json",
                     "./service-account-key.json",
                     "../contabilidade/service-account-key.json",
+                    "Firebase functions:config:get (contabilidade)",
                 ]
                 for path in paths:
                     print(f"   - {path}")
@@ -105,10 +129,6 @@ class GoogleDriveAnalyzer:
                 print("5. Salvar como: service-account-key.json")
                 return False
             
-            # Carregar credenciais
-            with open(self.service_account_file) as f:
-                service_account_info = json.load(f)
-            
             # Criar credenciais
             self.credentials = Credentials.from_service_account_info(
                 service_account_info,
@@ -119,18 +139,70 @@ class GoogleDriveAnalyzer:
             self.service = build('drive', 'v3', credentials=self.credentials)
             
             print(f"✅ Autenticação bem-sucedida!")
+            print(f"   Fonte: {source}")
             print(f"   Service Account: {service_account_info.get('client_email')}")
+            print(f"   Projeto: {service_account_info.get('project_id')}")
             return True
             
-        except FileNotFoundError:
-            print(f"❌ Arquivo não encontrado: {self.service_account_file}")
-            return False
-        except json.JSONDecodeError:
-            print(f"❌ Arquivo inválido: {self.service_account_file}")
-            return False
         except Exception as e:
             print(f"❌ Erro de autenticação: {e}")
             return False
+    
+    def _get_firebase_config(self) -> Optional[dict]:
+        """
+        Obter credenciais do Firebase config do repositório contabilidade
+        Executa: firebase functions:config:get --project osp-website-2026
+        
+        Returns:
+            Dict com service account info ou None
+        """
+        import subprocess
+        import json
+        
+        try:
+            # Ir para diretório contabilidade
+            contabilidade_path = Path(__file__).parent.parent.parent / "contabilidade"
+            
+            if not contabilidade_path.exists():
+                print(f"⚠️  Diretório contabilidade não encontrado: {contabilidade_path}")
+                return None
+            
+            # Executar firebase config get
+            result = subprocess.run(
+                ["firebase", "functions:config:get", "--project", "osp-website-2026"],
+                cwd=str(contabilidade_path),
+                capture_output=True,
+                text=True,
+                timeout=10
+            )
+            
+            if result.returncode != 0:
+                print(f"⚠️  Firebase CLI error: {result.stderr[:200]}")
+                return None
+            
+            # Parse do JSON
+            config = json.loads(result.stdout)
+            
+            # Extrair service account da config
+            service_account = config.get('google', {}).get('workspace', {}).get('service_account_key')
+            
+            if service_account:
+                if isinstance(service_account, dict):
+                    return service_account
+                elif isinstance(service_account, str):
+                    return json.loads(service_account)
+            
+            return None
+            
+        except subprocess.TimeoutExpired:
+            print("⚠️  Firebase config request timeout")
+            return None
+        except FileNotFoundError:
+            print("⚠️  Firebase CLI não instalado")
+            return None
+        except Exception as e:
+            print(f"⚠️  Erro ao obter Firebase config: {e}")
+            return None
     
     def format_size(self, size_bytes: int) -> str:
         """Converter bytes para formato legível"""
