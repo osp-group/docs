@@ -121,6 +121,11 @@ Total: ~300 arquivos → 10 índices
 | Lista de produtos | `CONHECIMENTO/solucoes/INDEX.md` |
 | Perfil de cliente | `CONHECIMENTO/personas/ICP.md` |
 | Cadência de e-mail | `VENDAS/processos/WORKFLOWS.md` |
+| **Modelos de Proposta** | `../COMERCIAL/recursos/01_MODELOS_PROPOSTA.md` |
+| **Apresentações Institucionais** | `../COMERCIAL/recursos/02_APRESENTACOES_INSTITUCIONAIS.md` |
+| **Playbook OSP** | `../COMERCIAL/recursos/03_PLAYBOOK_DOCUMENTACAO.md` |
+| **Dados de Gestão** | `../COMERCIAL/recursos/04_DADOS_PLANILHAS.md` |
+| **Índice de Recursos** | `../COMERCIAL/recursos/INDEX.md` |
 | Status geral | `MIGRATION_LOG.md` |
 | Guia rápido | `QUICK_START.md` |
 | Recursos Google Drive | [`planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md`](../planning/technical/GOOGLE_DRIVE_RESOURCES_P6.md) |

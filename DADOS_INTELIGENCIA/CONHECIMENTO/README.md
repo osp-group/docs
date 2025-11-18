@@ -22,6 +22,34 @@ Centralizar tudo o que explica o produto (soluções, segmentos, ICP, diferencia
 3. Copiar `ANALISE_PROFUNDA_BASE_CONHECIMENTO.md` para servir como índice temporário nesta pasta.
 4. Atualizar `INDEX_CONHECIMENTO.md` apontando para as novas rotas.
 
+## 🎤 Apresentações Institucionais
+
+**Local**: [`/COMERCIAL/recursos/02_APRESENTACOES_INSTITUCIONAIS.md`](../../../COMERCIAL/recursos/02_APRESENTACOES_INSTITUCIONAIS.md)
+
+### 📄 Apresentações Disponíveis
+1. **Sobre Nós - OSP** (PT) — Apresentação padrão em português
+2. **Sobre Nós - Multinacionais** (PT) — Versão customizada para clientes multinacionais
+3. **About Us - OSP** (EN) — Versão em inglês para clientes internacionais
+
+👉 **Acessar todas as apresentações e guias de uso**: [Clique aqui](../../../COMERCIAL/recursos/02_APRESENTACOES_INSTITUCIONAIS.md)
+
+---
+
+## 📖 Playbook OSP
+
+**Local**: [`/COMERCIAL/recursos/03_PLAYBOOK_DOCUMENTACAO.md`](../../../COMERCIAL/recursos/03_PLAYBOOK_DOCUMENTACAO.md)
+
+Guia estratégico completo com:
+- Visão, missão e posicionamento
+- Catálogo de produtos e soluções
+- Personas e segmentos
+- Ciclo de vendas e metodologia
+- Case studies de sucesso
+
+👉 **Acessar playbook completo**: [Clique aqui](../../../COMERCIAL/recursos/03_PLAYBOOK_DOCUMENTACAO.md)
+
+---
+
 ## 🔗 Recursos do Google Drive
 
 ### Segmentos & Análises

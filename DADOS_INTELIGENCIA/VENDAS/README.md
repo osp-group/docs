@@ -22,6 +22,30 @@ Concentrar todo material de apoio comercial (playbooks, matrizes de objeção, s
 3. Conectar CTA e páginas de conversão (`docs/campaigns/`) com referências diretas nesta pasta.
 4. Criar índice `VENDAS/INDEX.md` após a primeira onda de migração.
 
+## 📋 Modelos de Proposta
+
+**Local**: [`/COMERCIAL/recursos/01_MODELOS_PROPOSTA.md`](../../../COMERCIAL/recursos/01_MODELOS_PROPOSTA.md)
+
+### 📊 Contabilidade (3 Templates)
+- Modelo Contabilidade Mensal — versão 1, 2, 3
+- Ideal para: Clientes contabilidade recorrente
+
+### 💼 Consultoria (3 Templates)
+- Modelo Consultoria/Negócios — versão 1, 2, 3
+- Ideal para: Projetos de consultoria de negócios
+
+### 🌍 Internacional (3 Templates)
+- Modelo Serviços Internacionais — versão 1, 2, 3
+- Ideal para: Clientes com operações internacionais
+
+### 📈 Planejamento (2 Templates)
+- Modelo Planejamento/Estruturação — versão 1, 2
+- Ideal para: Serviços de planejamento estratégico
+
+👉 **Acessar todos os 12 templates**: [Clique aqui](../../../COMERCIAL/recursos/01_MODELOS_PROPOSTA.md)
+
+---
+
 ## 🔗 Recursos do Google Drive
 
 ### Templates & Propostas
