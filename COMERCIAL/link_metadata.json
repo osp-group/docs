@@ -1,0 +1,186 @@
+{
+  "comercial": [
+    {
+      "id": "1Nd7lnrhIkNwY8Foqoi1fOMBqe46r9pU7e4iEnf-mxw0",
+      "nome": "Recurso Comercial 01",
+      "titulo": "Playbook - OSP",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1Nd7lnrhIkNwY8Foqoi1fOMBqe46r9pU7e4iEnf-mxw0/edit?usp=drivesdk",
+      "tamanho": "31949",
+      "modificado": "2025-03-18T21:25:21.402Z"
+    },
+    {
+      "id": "12svc2pU6uexH6jcfhKr9xfun8TRjMGxxJ5OPevzIY_U",
+      "nome": "Recurso Comercial 02",
+      "titulo": "Sobre n\u00f3s - OSP  ",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/12svc2pU6uexH6jcfhKr9xfun8TRjMGxxJ5OPevzIY_U/edit?usp=drivesdk",
+      "tamanho": "2562341",
+      "modificado": "2024-12-28T02:41:15.401Z"
+    },
+    {
+      "id": "1O9mdc93o4evHyyzvtrrA9EWuygzUGsavsjCf8yEbDKk",
+      "nome": "Recurso Comercial 03",
+      "titulo": " Sobre n\u00f3s - OSP (Multinacionais)",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1O9mdc93o4evHyyzvtrrA9EWuygzUGsavsjCf8yEbDKk/edit?usp=drivesdk",
+      "tamanho": "2611320",
+      "modificado": "2024-10-04T12:19:50.969Z"
+    },
+    {
+      "id": "1xiSGb1brogSgI_zZdOau85rXkOj3B4z8KZFd7N7cu8o",
+      "nome": "Recurso Comercial 04",
+      "titulo": "About us - OSP",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1xiSGb1brogSgI_zZdOau85rXkOj3B4z8KZFd7N7cu8o/edit?usp=drivesdk",
+      "tamanho": "1371259",
+      "modificado": "2024-12-28T02:41:46.900Z"
+    },
+    {
+      "id": "1LH8JcQftRWcKjxB4nCiKpSzOWE22E4DcS4XA84wQ6xI",
+      "nome": "Recurso Comercial 05",
+      "titulo": "Contabilidade Mensal - Construtoras e Incorporadoras - Modelo Proposta ",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1LH8JcQftRWcKjxB4nCiKpSzOWE22E4DcS4XA84wQ6xI/edit?usp=drivesdk",
+      "tamanho": "26777",
+      "modificado": "2024-10-04T11:35:38.069Z"
+    },
+    {
+      "id": "1ueqFBXFujBHBmJOjzKUiDn38qN6ipQeCoTNBsI8utgE",
+      "nome": "Recurso Comercial 06",
+      "titulo": "Accounting Service for Multinacional - Modelo de proposta",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1ueqFBXFujBHBmJOjzKUiDn38qN6ipQeCoTNBsI8utgE/edit?usp=drivesdk",
+      "tamanho": "26116",
+      "modificado": "2024-10-28T21:10:46.543Z"
+    },
+    {
+      "id": "1J5GIpqjC5xDOGTVVk4lNBmUWs4-UfF0MI56ncZMb2ec",
+      "nome": "Recurso Comercial 07",
+      "titulo": " Consultoria 360 - Gest\u00e3o e Intelig\u00eancia Industrial - Modelo ",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1J5GIpqjC5xDOGTVVk4lNBmUWs4-UfF0MI56ncZMb2ec/edit?usp=drivesdk",
+      "tamanho": "9072289",
+      "modificado": "2024-10-16T17:21:14.619Z"
+    },
+    {
+      "id": "1TeuYivbHhWL9Zn0lziKbOQQI-yQZateoQULl7l0GI-g",
+      "nome": "Recurso Comercial 08",
+      "titulo": "Financial BPO - 2025",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1TeuYivbHhWL9Zn0lziKbOQQI-yQZateoQULl7l0GI-g/edit?usp=drivesdk",
+      "tamanho": "2664078",
+      "modificado": "2025-03-18T22:01:24.737Z"
+    },
+    {
+      "id": "1otUt7ZBnTtXWCZXFzh_lXedJ1DOyMddeWejr7QrUSY0",
+      "nome": "Recurso Comercial 09",
+      "titulo": "Transfer Pricing - Multinacionais - Modelo Proposta ",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1otUt7ZBnTtXWCZXFzh_lXedJ1DOyMddeWejr7QrUSY0/edit?usp=drivesdk",
+      "tamanho": "20204",
+      "modificado": "2024-04-17T20:54:35.041Z"
+    },
+    {
+      "id": "1tWwyvCSnyuTHj2DyNLW1nSdrh9gRNdpASWH2UQsIadQ",
+      "nome": "Recurso Comercial 10",
+      "titulo": "Contabilidade Consultiva - Servi\u00e7os - Modelo Proposta ",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1tWwyvCSnyuTHj2DyNLW1nSdrh9gRNdpASWH2UQsIadQ/edit?usp=drivesdk",
+      "tamanho": "2760650",
+      "modificado": "2024-10-07T14:58:13.424Z"
+    },
+    {
+      "id": "173mFVUyLT0j9a8kbORCZVH-_n-ot9xl2bEhu8hN0qEE",
+      "nome": "Recurso Comercial 11",
+      "titulo": "Contabilidade Consultiva - Terceiro Setor - Modelo Proposta ",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/173mFVUyLT0j9a8kbORCZVH-_n-ot9xl2bEhu8hN0qEE/edit?usp=drivesdk",
+      "tamanho": "5482077",
+      "modificado": "2024-10-08T19:54:10.108Z"
+    },
+    {
+      "id": "1xzv-x4LNDfYjFrphRJYM0zhlUJov0CBqO70o97wPqO8",
+      "nome": "Recurso Comercial 12",
+      "titulo": "Planejamento Sucess\u00f3rio e Holding Familiar - 2025",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1xzv-x4LNDfYjFrphRJYM0zhlUJov0CBqO70o97wPqO8/edit?usp=drivesdk",
+      "tamanho": "2566268",
+      "modificado": "2025-03-18T21:58:36.328Z"
+    },
+    {
+      "id": "1i_xoVQcHtKp5wC6ZYSP_8EqcOobUdznmc9AYhip_jyg",
+      "nome": "Recurso Comercial 13",
+      "titulo": "Estrat\u00e9giade Neg\u00f3cio e Governan\u00e7a Cont\u00e1bil - Construtora e Incorporadora - Modelo Proposta ",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1i_xoVQcHtKp5wC6ZYSP_8EqcOobUdznmc9AYhip_jyg/edit?usp=drivesdk",
+      "tamanho": "26936",
+      "modificado": "2024-04-17T21:16:30.161Z"
+    },
+    {
+      "id": "1SRkFoBV2mxWs32W6P-jpP7jLfw1nfD6Z534AJC0gats",
+      "nome": "Recurso Comercial 14",
+      "titulo": "Business Proposal for Establishing a Company in Brazil - 2025",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1SRkFoBV2mxWs32W6P-jpP7jLfw1nfD6Z534AJC0gats/edit?usp=drivesdk",
+      "tamanho": "2663459",
+      "modificado": "2025-03-18T22:02:42.383Z"
+    },
+    {
+      "id": "1RBgiL9Hodry7LEApDJNUWcVJWOeH8ltXltkuY3BpiF8",
+      "nome": "Recurso Comercial 15",
+      "titulo": "Proposta Comercial para Contabilidade Mensal para Empresas Multinacionais - 2025",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1RBgiL9Hodry7LEApDJNUWcVJWOeH8ltXltkuY3BpiF8/edit?usp=drivesdk",
+      "tamanho": "5630",
+      "modificado": "2024-12-19T12:56:33.518Z"
+    },
+    {
+      "id": "1AAjr5hJvCW4uFS5or8z5dsAtfDyXTvzEhAXYSqFmMJM",
+      "nome": "Recurso Comercial 16",
+      "titulo": "Abertura de Empresa e Contabilidade Mensal - Servi\u00e7os - Modelo Proposta ",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1AAjr5hJvCW4uFS5or8z5dsAtfDyXTvzEhAXYSqFmMJM/edit?usp=drivesdk",
+      "tamanho": "25783",
+      "modificado": "2024-09-26T17:41:43.004Z"
+    },
+    {
+      "id": "1AtBjqmDBrfipycUPuM12infjQMKZbpE9g2olArS29R0",
+      "nome": "Recurso Comercial 17",
+      "titulo": "Abertura de Empresa e Contabilidade Mensal Ind\u00fastria - Modelo de Proposta",
+      "tipo": "application/vnd.google-apps.document",
+      "descricao": "",
+      "link": "https://docs.google.com/document/d/1AtBjqmDBrfipycUPuM12infjQMKZbpE9g2olArS29R0/edit?usp=drivesdk",
+      "tamanho": "57702",
+      "modificado": "2024-10-04T11:37:08.581Z"
+    }
+  ],
+  "gestao": [
+    {
+      "id": "1CTjl6Y4VKB1NYjyVE-aVvds05cxFa5-go91Qk7FaFHo",
+      "nome": "Dados Consolidados",
+      "titulo": "Produtos e Or\u00e7amento",
+      "tipo": "application/vnd.google-apps.spreadsheet",
+      "descricao": "",
+      "link": "https://docs.google.com/spreadsheets/d/1CTjl6Y4VKB1NYjyVE-aVvds05cxFa5-go91Qk7FaFHo/edit?usp=drivesdk",
+      "tamanho": "42190",
+      "modificado": "2025-03-18T21:26:33.662Z"
+    }
+  ]
+}
